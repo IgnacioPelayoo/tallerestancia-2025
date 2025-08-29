@@ -1,0 +1,5 @@
+Linus Torvalds es un ingeniero de software finlandés nacido el 28 de diciembre de 1969 en Helsinki. Es conocido principalmente por ser el creador y principal desarrollador del núcleo Linux, un sistema operativo de código abierto que ha revolucionado la informática moderna. Torvalds comenzó el proyecto Linux en 1991 como una alternativa libre al sistema operativo MINIX, publicando el código fuente y permitiendo que desarrolladores de todo el mundo colaboraran en su mejora.
+
+A lo largo de los años, Linux se ha convertido en la base de numerosos sistemas operativos y es ampliamente utilizado en servidores, dispositivos móviles, supercomputadoras y sistemas embebidos. Además de su trabajo en Linux, Torvalds también desarrolló el sistema de control de versiones Git, que es fundamental en el desarrollo de software colaborativo.
+
+Linus Torvalds ha recibido múltiples reconocimientos por su contribución a la tecnología y el software libre, y sigue siendo una figura influyente en la comunidad de desarrollo de software a nivel mundial.
