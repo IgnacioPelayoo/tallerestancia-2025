@@ -2,4 +2,4 @@ Linus Torvalds es un ingeniero de software finlandés nacido el 28 de diciembre 
 
 A lo largo de los años, Linux se ha convertido en la base de numerosos sistemas operativos y es ampliamente utilizado en servidores, dispositivos móviles, supercomputadoras y sistemas embebidos. Además de su trabajo en Linux, Torvalds también desarrolló el sistema de control de versiones Git, que es fundamental en el desarrollo de software colaborativo.
 
-Linus Torvalds ha recibido múltiples reconocimientos por su contribución a la tecnología y el software libre, y sigue siendo una figura influyente en la comunidad de desarrollo de software a nivel mundial.
+Linus Torvalds ha recibido múltiples reconocimientos por su contribución a la tecnología y el software libre, y sigue siendo una figura influyente en la comunidad de desarrollo de software a nivel mundial.FIN
